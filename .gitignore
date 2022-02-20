@@ -28,6 +28,9 @@ pids
 .yarn-integrity
 .pnp.*
 
+# Parcel
+.parcel-cache
+
 # Build
 .build/
 build/
