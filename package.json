@@ -2,5 +2,8 @@
   "name": "tab-timer",
   "version": "0.1.0",
   "author": "Wing-Hou Chan <wing@wii.ng>",
-  "license": "GPL-3.0-only"
+  "license": "GPL-3.0-only",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
 }
